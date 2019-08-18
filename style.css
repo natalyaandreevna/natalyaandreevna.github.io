@@ -370,6 +370,9 @@
 
 .list {
     margin-top: -10px;
-    padding-left: 0;
     list-style: none;
+}
+
+.list__item {
+  margin-bottom: 5px;
 }
